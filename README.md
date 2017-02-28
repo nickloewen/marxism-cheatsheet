@@ -12,6 +12,4 @@ I found these to be useful resources while creating this document:
 
 ## License
 
-Creative Commons ShareAlike Attribution NonCommercial?
-
-CC BY 2.0?
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
